@@ -1,1 +1,1 @@
-# star-dms
+use this in windows powershell! 
