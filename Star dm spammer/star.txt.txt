@@ -1,0 +1,15 @@
+ |==========================|
+ |PUT UR BOT TOKENS IN HERE |
+ |==========================|
+
+ |======================================|
+ |in this format btw delete these boxes |
+ |======================================|
+
+TOKEN 1
+TOKEN 2
+TOKEN 3
+TOKEN 4
+
+
+#add more as needed by star <3

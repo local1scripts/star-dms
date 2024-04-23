@@ -1,0 +1,12 @@
+pip install pycryptodome
+
+pip install os
+
+pip install discord
+
+pip install discord.py
+
+
+ |===============================|
+ |download these for it to work! |
+ |===============================|
